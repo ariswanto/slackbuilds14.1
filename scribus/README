@@ -3,3 +3,9 @@ layout to Linux/Unix, MacOS X and Windows desktops with a combination of
 "press-ready" output and new approaches to page layout.
 
 podofo is an optional dependency used for embedded pdfs in AI files.
+
+If the F1 Help (Scribus Manual) has no contents after installation, create
+a symbolic link
+in /usr/share/doc:
+
+# ln -s /usr/doc/scribus-1.4.5 /usr/share/doc/scribus
