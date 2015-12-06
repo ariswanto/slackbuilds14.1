@@ -1,0 +1,14 @@
+PRGNAM="smplayer"
+VERSION="15.11.0"
+HOMEPAGE="http://smplayer.sourceforge.net"
+DOWNLOAD="http://downloads.sourceforge.net/smplayer/smplayer-15.11.0.tar.bz2 \
+          http://downloads.sourceforge.net/smplayer/smplayer-themes-15.6.0.tar.bz2 \
+          http://downloads.sourceforge.net/smplayer/smplayer-skins-15.2.0.tar.bz2"
+MD5SUM="e6f459f640908df2403381a39a27cdba \
+        d5c1889aea807a626c51dbb0a795a2a1 \
+        57e165cf9a95808fafd179e5322b7f15"
+DOWNLOAD_x86_64=""
+MD5SUM_x86_64=""
+REQUIRES=""
+MAINTAINER="Ihsan Ariswanto"
+EMAIL="ihsan@ariswanto.web.id"
